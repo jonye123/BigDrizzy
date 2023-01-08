@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigDrizzy
+- 👋 Hi, I’m @jonye
 - 👀 I’m interested in coral reef heat response and viruses
 - 🌱 I’m currently learning command line and python
 
